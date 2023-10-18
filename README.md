@@ -3,11 +3,11 @@
 	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>      
 <p align="center">    
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=700&height=80&lines=Web+Scraping+🕸+Specialist;Professional+Python++🐍+Developer;Web+🌐+Developer;Machine+Learning+and+AI+Enthuasist;Life+Long+Learner"></a> 
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=700&height=80&lines=Data+🕸+Specialist;Professional+Data+Analyzer;Content+and+Business+Strategist;AI+Enthuasist;Socail+Media+Analyzer;Life+Long+Learner"></a> 
 </p>  
   <br>
   <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=SanjayKH-Git&label=Profile%20views&color=0047AB&style=plastic" alt="SanjayKH"   height=25px, width=130px/> 
+	<img src="https://komarev.com/ghpvc/?username=amruthakrishnap&label=Profile%20views&color=0047AB&style=plastic" alt="amruthakrishnap"   height=25px, width=130px/> 
   </p>
 	
 ## 🛠️ My Skills
@@ -44,37 +44,6 @@
    </a>
 </p>	
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture>Web Development
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=flat-square&logo=css3&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=flat&logo=flat-square&logoColor=black">
-   </a>
-  &emsp; 	
-  <a href="https://www.python.org" target="_blank">
-    <img alt="ReactJS" src="https://img.shields.io/badge/React JS-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black">
-  </a>
-  &emsp; 
-  <a href="https://nodejs.org/" target="_blank"> 
-   <img alt="Node JS" src="https://img.shields.io/badge/Node JS%20-%234ea94b.svg?style=plastic&logo=node.js&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img alt="Django" src="https://img.shields.io/badge/Django-%23143d0a.svg?style=plastic&logo=django&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://www.tutorialspoint.com/fastapi/index.htm" target="_blank">
-    <img alt="Fast API" src="https://img.shields.io/badge/Fast API-%23273623.svg?style=plastic&logo=fastapi&logoColor=25b802">
-  </a>
-</p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture>Data Science
 <p align="center"> 
@@ -97,16 +66,8 @@
   &emsp; 	
   <a href="https://www.tensorflow.org/" target="_blank">
     <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23fc710d.svg?style=flat-square&logo=tensorflow&logoColor=black">
-  </a>
-  &emsp; 
-  <a href="https://opencv.org/" target="_blank"> 
-   <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV%20-350694.svg?style=plastic&logo=opencv&logoColor=d80dfc">
-  </a>   
-  &emsp;
-  <a href="https://openpyxl.readthedocs.io/en/stable/" target="_blank">
-    <img alt="Openpyxl" src="https://img.shields.io/badge/Openpyxl-%232d2440.svg?style=plastic&logo=openpyxl&logoColor=white">
-  </a> 
-  &emsp;
+  </a>  
+
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
@@ -116,12 +77,12 @@
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
   &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"> 
+  <a href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://en.wikipedia.org/wiki/SQL)" target="_blank"> 
+     <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23F7DF1E.svg?style=plastic&logo=SQL&logoColor=black"> 
    </a>
   &emsp;   
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
+  <a href="[https://www.w3schools.com/cpp/](https://www.w3schools.com/c/c_intro.php)" target="_blank"> 
+    <img alt="C" src="https://img.shields.io/badge/C%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
   </a>  
   &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
@@ -136,14 +97,12 @@
   &emsp;
     <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-38597a?style=plastic&logo=PostgreSQL&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Google Cloud Platform" src="https://img.shields.io/badge/-GCP-6a5f9e?style=plastic&logo=googlecloud&logoColor=white"></a>
-  &emsp;
     <a href="#"><img alt="Google BigQuery" src="https://img.shields.io/badge/Google BigQuery-911fa3.svg?style=plastic&logo=bigquery&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
   <a href="https://www.mongodb.com/" target="_blank">
-    <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white">
+    <a href="#"><img alt="Redash" src="https://img.shields.io/badge/Redash-9f1cab.svg?style=plastic&logo=redash&logoColor=white"></a>
   </a>
 </p>
 
@@ -171,16 +130,16 @@
 	
 <p align="center">	
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="Sanjay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SanjayKH-Git&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats-hazel-pi-31.vercel.app/api/top-langs/?username=SanjayKH-Git&langs_count=12&layout=compact&theme=tokyonight" alt="Sanjay" height="230px"/>
+	    <img alt="Amruthakrishna's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amruthakrishnap&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats-hazel-pi-31.vercel.app/api/top-langs/?username=amruthakrishnap&langs_count=12&layout=compact&theme=tokyonight" alt="Amruthakrishna" height="230px"/>
 <br/>
   </p>
 </details>
 
 ## Favourit Repositories
 
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SanjayKH-Git&repo=Food-Price-Clash&theme=tokyonight)](https://github.com/SanjayKH-Git/Food-Price-Clash) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SanjayKH-Git&repo=Real-Time-Pedestrian-Detection-Using-Deep-Learning-And-Computer-Vision&theme=tokyonight)](https://github.com/SanjayKH-Git/Real-Time-Pedestrian-Detection-Using-Deep-Learning-And-Computer-Vision) |
-|:---:|:---:|
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Amruthakrishnap&repo=Sharechat_creator_studio&theme=tokyonight)](https://github.com/amruthakrishnap/Sharechat_creator_studio) 
+
 
 </div>
 
